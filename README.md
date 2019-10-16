@@ -7,6 +7,7 @@
 ![Alt Text](https://github.com/AndraQeysa/PBO2-Encapsulasi/blob/master/OutputL4.PNG)
 
 # Praktik
+
 ![Alt Text](https://github.com/AndraQeysa/PBO2-Encapsulasi/blob/master/OutputP1.PNG)
 ![Alt Text](https://github.com/AndraQeysa/PBO2-Encapsulasi/blob/master/OutputP2.PNG)
 
